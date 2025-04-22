@@ -1,3 +1,5 @@
+# pip install -r requirements.txt
+
 pandas
 numpy
 seaborn
@@ -6,4 +8,5 @@ scikit-learn
 catboost
 xgboost
 dill
+optuna
 #-e .
